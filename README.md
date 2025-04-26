@@ -1,13 +1,7 @@
-Of course! 🔥  
-You want a similar **professional README** — but this time for your **Wallet Front-End UI** project, right?
 
-Here’s a clean and polished **`README.md`** you can use for your wallet app's front-end UI:
+# Wallet-App-UI 💳✨
 
----
-
-# Wallet Front-End UI 💳✨
-
-Welcome to the **Wallet Front-End UI** project!  
+Welcome to the **Wallet-App-UI** project!  
 This is a beautifully designed front-end interface for a digital wallet application, crafted with clean layouts, modern UI principles, and a responsive design approach.
 
 This project focuses on the **user interface (UI)** only — no backend functionality included yet — making it perfect for showcasing front-end development skills.
@@ -29,7 +23,7 @@ This project focuses on the **user interface (UI)** only — no backend function
 ## 📂 Folder Structure
 
 ```
-/wallet-frontend-ui
+/Wallet-App-UI
 │
 ├── assets/
 │   └── images/ (all icons and images used)
@@ -64,8 +58,8 @@ This project focuses on the **user interface (UI)** only — no backend function
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/wallet-frontend-ui.git
-   cd wallet-frontend-ui
+   git clone https://github.com/your-username/Wallet-App-UI.git
+   cd Wallet-App-UI
    ```
 
 2. **Get Flutter dependencies:**
